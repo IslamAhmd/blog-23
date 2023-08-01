@@ -230,7 +230,7 @@ button {
 }
 
 .header_section {
-    background-image: url(../images/banner-bg.png);
+    background-image: url("../storage/images/banner-bg.png");
     height: auto;
     background-size: 100%;
     width: 100%;
@@ -265,7 +265,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-img.png);
+    background-image: url(../storage/images/banner-img.png);
     height: 700px;
     background-size: 100%;
     margin-top: 10px;
@@ -362,7 +362,7 @@ button {
     width: 100%;
     float: left;
     height: 270px;
-    background-image: url(../images/img-2.png);
+    background-image: url(../storage/images/img-2.png);
     background-size: 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -416,7 +416,7 @@ button {
     width: 100%;
     float: left;
     height: 270px;
-    background-image: url(../images/img-3.png);
+    background-image: url(../storage/images/img-3.png);
     background-size: 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -448,7 +448,7 @@ button {
     width: 100%;
     float: left;
     height: 270px;
-    background-image: url(../images/img-4.png);
+    background-image: url(../storage/images/img-4.png);
     background-size: 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -865,7 +865,7 @@ button {
 .contact_img {
     width: 100%;
     float: left;
-    background-image: url(../images/contact-img.png);
+    background-image: url(../storage/images/contact-img.png);
     height: 488px;
     background-size: cover;
     background-repeat: no-repeat;
